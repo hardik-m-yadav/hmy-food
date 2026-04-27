@@ -7,6 +7,8 @@
       },
     });
 
+    
+
     const cartIcon = document.querySelector('.cart-icon');
     const cartTab = document.querySelector('.cart-tab');
     const closeBtn = document.querySelector('.close-btn');
