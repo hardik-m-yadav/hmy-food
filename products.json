@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Double Cheese Pizza",
+        "price": "$200",
+        "image": "Black_and_Yellow_Pizza_New_Menu_Poster-removebg-preview.png"
+    },
+    {
+         "id": 2,
+        "name": "Allo Tikki Burger",
+        "price": "$240",
+        "image": "Red Modern Simple Burger Animated Instagram Post.png"
+    },
+    {
+        "id": 3,
+        "name": "Veg Swarma",
+        "price": "$220",
+        "image": "swarma.png"
+    },
+    {
+         "id": 4,
+        "name": "Spring Roll",
+        "price": "$180",
+        "image": "springroll.png"
+    },
+    {
+        "id": 5,
+        "name": "Special Sandwich",
+        "price": "$340",
+        "image": "sandwich.png"
+    },
+    {
+         "id": 6,
+        "name": "Panner Tikka",
+        "price": "$400",
+        "image": "pannertikka.png"
+    },
+    {
+        "id": 7,
+        "name": "Garlic Bread",
+        "price": "$140",
+        "image": "garlicbread.png"
+    },
+    {
+         "id": 8,
+        "name": "Corn Cheese Momos",
+        "price": "$220",
+        "image": "friedmomos.png"
+    }
+]
